@@ -3,3 +3,5 @@
 PackageCat is a Scratch Extension made by Themeatly2 (2digit_co on Discord) for adding packages from popular CDN sites like NPM. It can also add stylesheets incase it needs them.
 ## Note
 [Mistium](https://github.com/Mistium) has improved on this extension and has posted it on her extensions gallery [here](https://extensions.mistium.com/). I recommend you use that extension instead.
+## Download
+You can download this extension [here](https://raw.githubusercontent.com/biggiecheesetherat/packagecat/main/PackageCat.js). It must run unsandboxed.
