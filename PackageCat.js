@@ -1,6 +1,6 @@
 /*
-   This extension was made with TurboBuilder!
-   https://turbobuilder-steel.vercel.app/
+   This extension's base was made with TurboBuilder's dev branch, then modified!
+   https://turbobuilder-dev.vercel.app/
 */
 (async function(Scratch) {
     const variables = {};
